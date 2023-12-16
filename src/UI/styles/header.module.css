@@ -1,0 +1,11 @@
+.header {
+    align-items: center;
+    width: 70%;
+}
+
+.centered {
+    display: inline-block;
+    align-self: center;
+    margin-left: 18%;
+    width: 60%;
+}

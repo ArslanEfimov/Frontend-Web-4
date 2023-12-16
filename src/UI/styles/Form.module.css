@@ -1,0 +1,36 @@
+.myForm{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    backdrop-filter: blur(15px);
+    gap: 8.5px;
+    margin-top: 40px;
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.authHeader{
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(15px);
+    background: transparent;
+    text-align: center;
+    width: 80%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.authButton{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    width: 300px;
+    height: 40px;
+    background: whitesmoke;
+    margin-top: 20px;
+    color: black;
+    transition: 600ms;
+}
+.authButton:hover{
+    background-color: #d7d3d3;
+}
