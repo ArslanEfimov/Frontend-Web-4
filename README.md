@@ -29,7 +29,7 @@ __Дополнительные требования к приложению:__
 - Все результаты проверки должны сохраняться в базе данных под управлением СУБД `PostgreSQL`.
 - Для доступа к БД необходимо использовать `Spring Data`.
 
-<img src="src/main/resources/static/image-graph.png" width="240" alt="graph_picture"/>
+<img src="src/images/image-graph.png" width="240" alt="graph_picture"/>
 
 __Вопросы к защите лабораторной работы:__
 1. Платформа Java EE. Спецификации и их реализации.
